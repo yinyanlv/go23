@@ -1,3 +1,5 @@
+// 原型模式使对象能复制自身，并且暴露到接口中，使客户端面向接口编程时，不知道接口实际对象的情况下生成新的对象
+
 package creational
 
 type Cloneable interface {

@@ -1,3 +1,5 @@
+// 将一个复杂对象的构建分离成多个简单对象的构建组合
+
 package creational
 
 type Builder interface {

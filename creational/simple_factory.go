@@ -1,3 +1,5 @@
+// NewXXX函数返回接口时就是简单工厂模式
+
 package creational
 
 import "fmt"

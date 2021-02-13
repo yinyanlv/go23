@@ -1,3 +1,5 @@
+// 代理模式用于延迟处理操作或者在进行实际操作前后进行其它处理
+
 package structural
 
 type Subject interface {

@@ -1,3 +1,6 @@
+// 抽象工厂模式用于生成产品族的工厂，所生成的对象是有关联的
+// 如果抽象工厂退化成生成的对象无关联则成为工厂函数模式
+
 package creational
 
 type OrderMainDAO interface {

@@ -1,3 +1,5 @@
+// 使用懒惰模式的单例模式，使用双重检查加锁保证线程安全
+
 package creational
 
 import (

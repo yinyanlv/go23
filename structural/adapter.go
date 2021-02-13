@@ -1,3 +1,5 @@
+// 适配器模式用于转换一种接口适配另一种接口
+
 package structural
 
 type Target interface {

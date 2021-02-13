@@ -1,3 +1,5 @@
+// 工厂方法模式使用子类的方式延迟生成对象到子类中实现
+
 package creational
 
 type Operator interface {
